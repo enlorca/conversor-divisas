@@ -2,7 +2,7 @@ Prueba de Javascript donde se desmuestra conocimiento de uso de APIs por medio d
 
 ■ Se utiliza la API en https://mindicador.cl/api/
 
-■ Se utilizan 3 divisas para demostrar su uso. 
+■ Se utilizan 3 divisas para demostrar su uso. Se filtra primero para determinar cuales usan una unidad de medida en pesos, y luego se filtran manualmente otras para dejar el ejemplo más acotado.
 
 ■ La grafica muestra los valores de los 10 ultimos días validos, o sea saltandose los días donde la API no tenga valores. Estos días usualmente son los fines de semana.
 
